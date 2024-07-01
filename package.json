@@ -9,15 +9,15 @@
     },
     "repository": {
       "type": "git",
-      "url": "https://github.com/Mahendra0006"
+      "url": "https://github.com/Mahendra0006/music_player.git"
     },
     "keywords": [],
     "author": "Mahendra Singh",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/Mahendra0006"
+      "url": "https://github.com/Mahendra0006/music_player.git"
     },
-    "homepage": "https://github.com/Mahendra0006",
+    "homepage": "https://github.com/Mahendra0006/music_player.git",
     "devDependencies": {
       "serve": "^11.2.0"
     }

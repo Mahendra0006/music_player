@@ -5,5 +5,5 @@ This is my Music player UI project . This has been created using only HTML and C
 By Mahendra Singh 
 
 
-https://github.com/Mahendra0006
+https://github.com/Mahendra0006/music_player.git
 
